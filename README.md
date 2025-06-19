@@ -8,10 +8,10 @@ All words must have their first letter capitalized.
 If the final result is longer than 140 chars it must return false.
 If the input or the result is an empty string it must return false.
 Examples
-```javascript
-" Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
-"    Hello     World   "                  =>  "#HelloWorld"
-""                                        =>  false
+        ```javascript
+        " Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
+        "    Hello     World   "                  =>  "#HelloWorld"
+        ""                                        =>  false
 
 ## How to Run
 
